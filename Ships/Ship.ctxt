@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Ship
+comment1.params=
+comment1.target=Ship()
+comment2.params=shipName\ shipSize
+comment2.target=Ship(java.lang.String,\ int)
+comment3.params=
+comment3.target=Ship\ buildShip()
+comment4.params=shipName
+comment4.target=Ship(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=int\ getSize()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

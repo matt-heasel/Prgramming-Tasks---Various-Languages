@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Dock
+comment1.params=
+comment1.target=Dock()
+comment2.params=
+comment2.target=void\ unDock()
+comment3.params=boat
+comment3.target=void\ berth(Ship)
+comment4.params=array\ berthSize
+comment4.target=void\ report(java.util.List,\ java.lang.String)
+comment5.params=
+comment5.target=int\ menu()
+comment6.params=boat
+comment6.target=void\ checkFreeSpaces(Ship)
+numComments=7
